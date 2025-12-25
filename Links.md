@@ -1,0 +1,1 @@
+* Design Patterns | LLD | AlgoMaster.io: https://algomaster.io/learn/lld/design-patterns
